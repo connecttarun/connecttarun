@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, angular and some nlp
 - 💞️ I’m looking to collaborate and build better models on kaggle and participate in some competitions 
       as well as build something that runs end to end and is useful.
-- 📫 How to reach me ...gettarun20@gmail.com is pretty responsive. I would put my phone number but I thing for global collaboration , 
+- 📫 How to reach me ...gettarun20@gmail.com is pretty responsive. I would put my phone number but I think for global collaboration , 
 mails are quite good if used properly.
 
 <!---
