@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @connecttarun
-- 👀 I’m interested in learning new things on a wide scale in order to make the best choices.
+- 👀 I’m interested in learning new things on a broader scale in order to make the best choices.
 - 🌱 I’m currently learning python and want to build using java/scala rest-services for the backend, angular/react for UI and some nlp as the driver.
 - 💞️ I’m looking to collaborate and build better models on kaggle and participate in some competitions 
       as well as build something that runs end to end and is useful.
