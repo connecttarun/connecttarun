@@ -6,7 +6,7 @@
 - 📫 How to reach me ...gettarun20@gmail.com is pretty responsive. I would have written my phone number but I think for global collaboration , 
 mails are very effective if used properly.
 
-Also not everything here is private, you will see some code, but that is not all of it.
+Also not everything here is public, you will see some code, but that is not all of it.
 <!---
 connecttarun/connecttarun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
