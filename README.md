@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @connecttarun
 - 👀 I’m interested in learning new things on a broader scale in order to make the best choices.
-- 🌱 I’m currently learning python and want to build the backend using java/scala rest-services, angular/react for UI and some nlp as the driver.
-- 💞️ I’m looking to collaborate and build better models on kaggle and participate in competitions 
-      as well as build something that runs end to end and is useful.
+- 🌱 I’m currently learning cloud and want to build projects that involve an event driven backend using java/scala rest-services.
+- 💞️ I’m looking to collaborate and build better cloud native applications and participate in events and coding contests as well. 
+     
 - 📫 How to reach me ...connecttarun20@gmail.com is pretty responsive. I would have written my phone number but I think for global collaboration , 
 mails are very effective if used properly.
 
